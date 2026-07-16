@@ -22,8 +22,9 @@ Le dépôt d’origine est un **monorepo frontend** (~30 apps réseaux + ~50 lib
 
 Chaque application est adaptée et enrichie en fonction des besoins des collectivités, certaines fonctionnalités comme les horaires ou la carte interactive sont communes aux applications, et d'autres sont essentiellement spécifique à un réseau (billetique, services de mobilités, ...)
 
-<img width="587" height="536" alt="1" src="https://github.com/user-attachments/assets/d510ac75-9a6a-45dc-934c-3822315fdd45" />
-<img width="585" height="529" alt="2" src="https://github.com/user-attachments/assets/4f4abb12-599d-4ffe-beb1-773897a7c89f" />
+![capture d'écran achat et validation d'un ticket de bus](https://github.com/luvelut/MONKEY/blob/main/1.svg) 
+![capture d'écran réservation d'un vélo](https://github.com/luvelut/MONKEY/blob/main/2.svg) 
+
 
 ### Les applications déployées sur lesquelles j'ai travaillé :
 
